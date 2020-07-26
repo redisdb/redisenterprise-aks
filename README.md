@@ -1,2 +1,2 @@
 # redisenterprise-aks
-Installing Redis Enterprise over Amazon Kubernetes Service
+Installing Redis Enterprise over Microsoft Azure Kubernetes Service
